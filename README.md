@@ -6,7 +6,7 @@ My website portfolio
 ![Portfolio](https://github.com/indranilroy99/Portfolio/blob/main/Portfolio.PNG)
 
 ### Mobile View
-![Portfolio](https://github.com/indranilroy99/Portfolio/Portfolio_mobile.PNG)
+![Portfolio](https://github.com/indranilroy99/Portfolio/blob/main/Portfolio_mobile.PNG)
 
 ## Author
 * Indranil Roy
